@@ -2,6 +2,8 @@
 
 Name: Alok Gorain
 Reg: 22122007
+Email: alok.gorain@msds.christuniversity.in
+Class: MsdsA
 Lab 1
 
 LAB Program:
