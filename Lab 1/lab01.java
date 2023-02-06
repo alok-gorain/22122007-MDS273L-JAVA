@@ -90,7 +90,7 @@ public class lab01 {
                 default:
                     System.out.println();
                     break;
-
+            }
 
      
 		
