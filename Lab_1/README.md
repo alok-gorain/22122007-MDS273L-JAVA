@@ -15,7 +15,13 @@ Identify if the employee belongs to the top MNC Companies (Facebook, Google, Mic
 
 Note: Your program should be neatly organized, with appropriate comments, variable names, proper input output formatting, and necessary validations.
 
+<<<<<<< HEAD:Lab_1/README.md
 
 
 ![Alt text](Lab 1.jpeg "Lab_1.jpeg")
 
+=======
+  ![Lab 1](https://github.com/alok-gorain/22122007-MDS273L-JAVA/assets/118044876/46f1b08b-ccfe-4770-8bb5-54e2c23c684b)
+
+  
+>>>>>>> b3f0c7376bbc230d500cf8163517e85572a91ed4:Lab 1/README.md
