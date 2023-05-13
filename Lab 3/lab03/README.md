@@ -27,3 +27,7 @@ In the end, you will have
 
 Plan your program with a flow chart before starting with coding.
 Since you are using functions, plan what should be the returning values and how to implement them.
+
+![lab 3](https://github.com/alok-gorain/22122007-MDS273L-JAVA/assets/118044876/1d710101-e8d6-40f8-af5a-09f267d1dd7d)
+
+
