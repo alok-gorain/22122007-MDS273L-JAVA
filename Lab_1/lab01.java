@@ -1,6 +1,6 @@
+package Lab_1;
+
 import java.util.Scanner;
-
-
 public class lab01 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -12,8 +12,8 @@ public class lab01 {
 		System.out.println("Enter age");
 		int age = scan.nextInt();
 		
-		System.out.println("Enter sex: M/F");
-	    String gender = scan.nextLine();
+		System.out.println("Enter gender: M/F");
+	    char gender = scan.next().charAt(0);
 		
 		System.out.println("Where you are from");
         String state = scan.nextLine();
@@ -24,10 +24,11 @@ public class lab01 {
         System.out.println("Name: " +name);
         System.out.println("Age: " +age);
         System.out.println("Gender: " +gender);
-        System.out.println("State: " +state);
+        System.out.println("State: " + state);
         System.out.println("Company: "+mnc);
+        
         if(gender == 'M'){
-            System.out.println("Gender is MALE");
+            System.out.println("Gender is Male");
         }
         else{
             System.out.println("Gender is Female");
@@ -42,7 +43,7 @@ public class lab01 {
             case "Jammu & Kashmir":
             case "Punjab":
             case "Rajasthan":
-                System.out.println("The Employee is from the 'northern' states of India; And location is in " + state)
+                System.out.println("The Employee is from the 'northern' states of India And location is in " + state);
                 break;
             case "Arunachal Pradesh":
             case "Assam":

@@ -1,4 +1,4 @@
-package Lab05;
+package Lab_5;
 import java.util.*;
 
 public class lab5 {
